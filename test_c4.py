@@ -1,4 +1,4 @@
-#first commit
+#first commit lol
 speed = int(input('what speed?: '))
 hours = int(input('what hours?: '))
 start_speed = 1
